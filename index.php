@@ -7,5 +7,5 @@
  * @package main
  */
 
-	echo 'this is index222';
+	echo 'this is index';
 ?>
