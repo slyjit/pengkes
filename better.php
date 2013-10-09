@@ -1,4 +1,4 @@
 <?php
 
-	echo 'YES22';
+	echo 'YES';
 ?>
